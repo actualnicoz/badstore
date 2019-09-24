@@ -1,2 +1,2 @@
 # Welcome to *The Bad Store*
-* A small store project.
+* A small store catalog project.
