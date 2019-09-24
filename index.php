@@ -1,6 +1,6 @@
 <?php include './includes/header.php';?>
 <body>
-    <div id="app">
+    <div id="greeting">
         {{message}}
     </div>
 </body>
