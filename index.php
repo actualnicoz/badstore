@@ -3,6 +3,5 @@
     <div id="greeting">
         {{message}}
     </div>
-    <span>Testing git</span>
 </body>
 <?php include './includes/footer.php';?>
