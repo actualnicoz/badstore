@@ -14,5 +14,21 @@
         "password": "stevie",
         "passHint": "stevie",
         "role": "admin"
+    },
+    {
+        "firstName": "Jim",
+        "lastName": "Arnold",
+        "email": "jarnold@merchant.biz",
+        "password": "jim123",
+        "passHint": "jim123",
+        "role": "admin"
+    },
+    {
+        "firstName": "Ben",
+        "lastName": "Coughlin",
+        "email": "bcoughlin@merchant.biz",
+        "password": "ben321",
+        "passHint": "ben321",
+        "role": "user"
     }
 ]
