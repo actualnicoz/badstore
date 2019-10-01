@@ -1,0 +1,17 @@
+[
+    {
+        "serviceNum": "2000",
+        "serviceName": "Service 1",
+        "price": "24.97"
+    },
+    {
+        "serviceNum": "2001",
+        "serviceName": "Service 2",
+        "price": "49.99"
+    },
+    {
+        "serviceNum": "2002",
+        "serviceName": "Service 3",
+        "price": "35.95"
+    }
+]
